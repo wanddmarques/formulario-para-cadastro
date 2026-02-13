@@ -15,8 +15,6 @@ JavaScript (ES6+) – Lógica e interatividade
 
 Uso de variáveis const
 
-Estruturas condicionais if / else
-
-Manipulação do DOM
+Estruturas condicionais if
 
 Validação de campos
