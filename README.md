@@ -1,4 +1,4 @@
-                                                       Aplicativo de Formulário Interativo
+                                                  Aplicativo de Formulário Interativo
 
 Este projeto é um aplicativo de formulário web desenvolvido com HTML, CSS e JavaScript, com foco em boas práticas de estruturação, organização de código e lógica condicional.
 
